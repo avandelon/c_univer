@@ -1,0 +1,22 @@
+3 4 5
+Ivan
+2 5 6
+Artem
+4 1 2
+Kostya
+5 5 5
+Nastya
+2 2 2
+Starosta
+3 3 3
+Ocs
+1 1 1
+Mark
+1 1 1
+Mark
+1 1 1
+Mark
+1 1 1
+Mark
+5 5 5
+Nastya
